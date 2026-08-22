@@ -1,0 +1,21 @@
+{
+  "format": "prim.album",
+  "version": "0.1.0",
+  "album_id": "album:eidos-agi:siliconfall-score",
+  "title": "Siliconfall Score",
+  "artist": "Eidos Arcade",
+  "year": 2026,
+  "intent": "Campus house. Original generative patches. Not a licensed mix.",
+  "tracks": [
+    {"n": 1, "id": "lobby", "title": "Lobby", "site": "Badge printers", "bpm": 118, "duration": 65.08474576271186, "source": {"kind": "patch", "bars": 32, "root": 55.0, "cutoff": 420, "swing": 0.12, "drive": 0.35}},
+    {"n": 2, "id": "cluster", "title": "Cluster", "site": "GPU hall", "bpm": 112, "duration": 68.57142857142857, "source": {"kind": "patch", "bars": 32, "root": 49.0, "cutoff": 280, "swing": 0.18, "drive": 0.55}},
+    {"n": 3, "id": "roof", "title": "Roof", "site": "Campus array", "bpm": 124, "duration": 61.935483870967744, "source": {"kind": "patch", "bars": 32, "root": 61.74, "cutoff": 640, "swing": 0.08, "drive": 0.28}},
+    {"n": 4, "id": "garage", "title": "Garage", "site": "Founder lot", "bpm": 120, "duration": 64.0, "source": {"kind": "patch", "bars": 32, "root": 41.2, "cutoff": 380, "swing": 0.1, "drive": 0.42}},
+    {"n": 5, "id": "quad", "title": "Quad", "site": "All-hands lawn", "bpm": 116, "duration": 66.20689655172414, "source": {"kind": "patch", "bars": 32, "root": 58.27, "cutoff": 510, "swing": 0.14, "drive": 0.3}},
+    {"n": 6, "id": "lake", "title": "Lake", "site": "The data lake", "bpm": 108, "duration": 71.11111111111111, "source": {"kind": "patch", "bars": 32, "root": 46.25, "cutoff": 240, "swing": 0.22, "drive": 0.6}},
+    {"n": 7, "id": "garden", "title": "Garden", "site": "Quiet campus", "bpm": 122, "duration": 62.950819672131146, "source": {"kind": "patch", "bars": 32, "root": 65.41, "cutoff": 720, "swing": 0.09, "drive": 0.22}},
+    {"n": 8, "id": "lift", "title": "Lift", "site": "Between floors", "bpm": 126, "duration": 60.95238095238095, "source": {"kind": "patch", "bars": 32, "root": 51.91, "cutoff": 560, "swing": 0.06, "drive": 0.38}},
+    {"n": 9, "id": "yacht", "title": "Yacht", "site": "Board retreat", "bpm": 114, "duration": 67.36842105263158, "source": {"kind": "patch", "bars": 32, "root": 36.71, "cutoff": 320, "swing": 0.16, "drive": 0.48}},
+    {"n": 10, "id": "keynote", "title": "Keynote", "site": "Siliconfall theme", "bpm": 100, "duration": 96.0, "source": {"kind": "patch", "bars": 40, "root": 55.0, "cutoff": 360, "swing": 0.2, "drive": 0.25}}
+  ]
+}
