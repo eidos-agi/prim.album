@@ -121,7 +121,7 @@ Album duration is computed: sum of `tracks[].duration`. Optional top-level `dura
 
 ## 5. Compose
 
-An album MAY `compose:` a game, a brand (`obif`), or scenes it underscores. It MUST NOT copy those packs' authority files into `album.json`.
+An album MAY `compose:` a game, a brand (`brand`), or scenes it underscores. It MUST NOT copy those packs' authority files into `album.json`.
 
 An album is not a cart. If you need a playable ROM, that is `prim.arcade`.
 
